@@ -1,0 +1,19 @@
+tipos = {
+    'grass':'Planta',
+    'poison':'Venenoso',
+    'fire':'Fogo',
+    'flying':'Voador',
+    'water':'Água',
+    'bug':'Inseto',
+    'normal':'Normal',
+    'electric':'Eletrico',
+    'ground':'Terra',
+    'fairy':'Fada',
+    'fighting':'Lutador',
+    'psychic':'Psiquico',
+    'rock':'Pedra',
+    'steel':'Metal',
+    'ice':'Gelo',
+    'ghost':'Fantasma',
+    'dragon':'Dragão'
+}
